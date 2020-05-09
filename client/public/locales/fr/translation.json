@@ -1,0 +1,72 @@
+{
+    "FR": {
+        "1": "Franaçais"
+    },  
+    "AR": {
+        "1": "Arabe"
+    },  
+    "Emissions": {
+        "1": " Emissions"
+    },  
+    "Add_emission": {
+        "1": "Ajouter Emission"
+    }, 
+    "Edit_emission": {
+        "1": "Modifier Emission"
+    },  
+    "Chroniqueurs": {
+        "1": "Liste des Chroniqueurs"
+    },  
+    "Add_chroniqueur": {
+        "1": "Ajouter Chroniqueur"
+    },  
+    "Edit_chroniqueur": {
+        "1": "Modifier Chroniqueur"
+    }, 
+    "List": {
+        "1": "Liste des Emissions"
+    },  
+    "Add": {
+        "1": "Ajouter"
+    },  
+    "Edit": {
+        "1": "Modifier"
+    },  
+    "Delete": {
+        "1": "Supprimer"
+    }, 
+    "Print": {
+        "1": "Imprimer"
+    },  
+    "Name": {
+        "1": "Nom"
+    },
+    "Dure": {
+        "1": "Durée"
+    },
+    "Date_emission": {
+        "1": "Date de l'emission"
+    },
+    "Visiteur": {
+        "1": "Visiteur"
+    },
+    "Animateur": {
+        "1": "Animateur"
+    },
+    "Action": {
+        "1": "Action"
+    },
+    "Chroniqueur": {
+        "1": "Chroniqueur"
+    },
+    "LastName": {
+        "1": "Prenom"
+    },
+    "Date_naissance": {
+        "1": "Date de naissance"
+    },
+    "Num_Tel": {
+        "1": "Num Tel"
+    }
+    
+}
